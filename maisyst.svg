@@ -11,6 +11,12 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
+   <style type="text/css">
+    @font-face {
+      font-family: Nunito;
+      src: url('./Nunito.ttf');
+    }
+  </style>
   <g
      id="layer1"
      transform="translate(-24.281689,-163.70293)">

@@ -1,5 +1,5 @@
 <div align="center">
-  <style type="text/css">@import url('http://fonts.googleapis.com/css?family=Nunito');</style>
+  <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');</style>
   <img src="./maisyst.svg" width="600" height="300"/>
 </div>
 <div>

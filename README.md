@@ -1,5 +1,7 @@
 <head>
-  <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');</style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap" rel="stylesheet">
 </head>
 <div align="center">
   <img src="./maisyst.svg" width="600" height="300"/>

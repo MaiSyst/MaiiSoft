@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./maiisoft.svg" width="600" height="300"/>
+  <img src="./maisyst.svg" width="600" height="300"/>
 </div>
 <div>
   <h1>Languages Tools:</h1><br>
